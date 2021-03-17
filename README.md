@@ -7,3 +7,4 @@
 - 🎼Looking for new music? Check out my project [Explorify](https://explorify-app.herokuapp.com/)
 - 😄 Pronouns: He/him
 
+[![Larry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiwiegg)](https://github.com/anuraghazra/github-readme-stats)
