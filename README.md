@@ -8,3 +8,4 @@
 - 😄 Pronouns: He/him
 
 [![Larry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiwiegg&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiwiegg&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
