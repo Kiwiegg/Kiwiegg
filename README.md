@@ -6,5 +6,3 @@
 - 🌱 Technologies that I love using: Html/css, Javascript, Node.js, React.js, Java, Python...
 - 🎼Looking for new music? Check out my project [Explorify](https://explorify-app.herokuapp.com/)
 - 😄 Pronouns: He/him
-
-[![Larry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiwiegg&show_icons=true&theme=tokyonight&hide=issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
